@@ -1,0 +1,6 @@
+// JavaScript modules help organize code by encapsulating functionality 
+// into separate files, which makes it easier to manage and reuse code.
+
+Here's a simple example to demonstrate how modules work in JavaScript. 
+We will create two files: math.js and main.js.
+
