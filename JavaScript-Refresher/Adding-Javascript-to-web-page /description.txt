@@ -1,0 +1,2 @@
+1 : ( You can include JavaScript directly within your HTML file using the <script> tag. This  )
+2 : (For better organization, you can place your JavaScript in an external file and reference it in your HTML using the <script> tag with the src attribute.)

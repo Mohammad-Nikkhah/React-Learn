@@ -1,0 +1,16 @@
+How React Projects Differ
+React projects typically involve a more complex setup due to the nature of React and modern web development practices. Here are the key differences:
+
+Build Process:
+Tooling: React projects usually require a build tool like Webpack, Vite, or a bundler provided by tools like Create React App (CRA). These tools handle bundling your JavaScript files, transpiling JSX (React's syntax extension), and often include support for features like code splitting, hot module replacement, and more.
+Transpiling: React uses JSX, which is not valid JavaScript out of the box. A build tool will use Babel to transpile JSX into standard JavaScript that browsers can understand.
+
+
+Module System:
+CommonJS vs. ES Modules: Traditional JavaScript projects use either CommonJS (require) or ES Modules (import). React projects use ES Modules by default due to their compatibility with modern JavaScript tooling.
+
+
+Summary
+Plain HTML/JavaScript: Simple inclusion of scripts directly or via external files, no build tools required.
+React Projects: Involve a build process with tools like Webpack or Create React App, support modern JavaScript features, and focus on component-based architecture and state management.
+The build process in React projects helps manage complexity and optimize performance, making it different from traditional approaches to adding JavaScript to web pages.
